@@ -1,0 +1,18 @@
+1. We need to create a class name
+
+  Example: class Siva
+  
+  
+2. We neeed to create a Main method
+ 
+   public static void main(String[]args)
+   {
+   
+   }
+   
+3. We need to define the body of the main method
+
+   public static void main(String[]args)
+   {
+      System.out.println("Hello siva")
+   }
