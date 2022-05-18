@@ -14,7 +14,7 @@
 
    public static void main(String[]args)
    {
-      System.out.println("Hello siva")
+      System.out.println("Hello siva");
    }
 
 
@@ -24,7 +24,7 @@ class Siva
     public static void main(Strin[]args)
     {
         
-      System.out.println("Sivathanu")
+      System.out.println("Sivathanu");
     
     }
 
@@ -34,3 +34,7 @@ class Siva
 4. Save the file in .java formate.
 5. It will create the class file
 6. Run the class file.
+
+
+Note:
+We should use semicolon every line in the body of the method.
